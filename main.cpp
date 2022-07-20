@@ -1,5 +1,5 @@
 #include <iostream>
-#include "stdlib.h"
+#include <stdlib.h>
 using namespace std;
 
 int maksData, temp[50], data[50], cari;
